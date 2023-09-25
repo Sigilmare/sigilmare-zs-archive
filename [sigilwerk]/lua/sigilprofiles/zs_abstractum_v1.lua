@@ -1,0 +1,21 @@
+hook.Add("InitPostEntityMap", "MapProfile", function()
+    local ent = ents.Create( "info_player_zombie" )
+    ent:SetPos( Vector(-750.23297119141, -137.46206665039, 3.6062490940094) )
+    ent:SetAngles( Angle(0, 45, 0) )
+    ent:Spawn()
+
+    local ent = ents.Create( "info_player_zombie" )
+    ent:SetPos( Vector(-824.17980957031, -100.88737487793, 3.6062490940094) )
+    ent:SetAngles( Angle(0, 45, 0) )
+    ent:Spawn()
+
+    local ent = ents.Create( "info_player_human" )
+    ent:SetPos( Vector(-468.19686889648, 1475.4879150391, 10.171249389648) )
+    ent:SetAngles( Angle(0, -90, 0) )
+    ent:Spawn()
+
+    local ent = ents.Create( "info_player_human" )
+    ent:SetPos( Vector(-482.25491333008, 1348.0555419922, 10.171249389648) )
+    ent:SetAngles( Angle(0, -90, 0) )
+    ent:Spawn()
+end)
