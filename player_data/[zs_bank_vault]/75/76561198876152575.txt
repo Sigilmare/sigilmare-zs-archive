@@ -1,0 +1,1 @@
+SRL={["ZSBank_Scrap"]=0,["ZSBank_Points"]=35}

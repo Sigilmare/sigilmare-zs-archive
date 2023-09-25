@@ -1,0 +1,1 @@
+SRL={["HStats_DamageToZombies"]=2455.549993515,["HStats_ZombiesKilled"]=11,["HStats_RoundWins"]=0,["HStats_RoundLosses"]=2,["HStats_ObjectRepairPoints"]=0,["HStats_ZombiesKilledAssists"]=0,["HStats_ZombiesKilledHeadshots"]=6,["HStats_PointsEarned"]=74}

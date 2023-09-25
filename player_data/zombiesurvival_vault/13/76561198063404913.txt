@@ -1,0 +1,2 @@
+SRL={["Points"]=0,["DesiredActiveSkills"]="\31\28\1\0\\‘\15€‚\
+\30\0`\0wÂ\8l\2",["RemortLevel"]=1,["XP"]=38416,["UnlockedSkills"]="\31\28\5\0\\™\15€‚\14\30\0`€wÂ\8l\18",["Version"]=7}

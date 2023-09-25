@@ -1,0 +1,1 @@
+SRL={["Punishment_AegisBanned"]=false,["Punishment_ZombieBanned"]=false,["Punishment_VoiceMuted"]=true,["Punishment_HammerBanned"]=false,["Punishment_PickupBanned"]=false,["Punishment_NestBanned"]=false,["Punishment_ChatMuted"]=false}
